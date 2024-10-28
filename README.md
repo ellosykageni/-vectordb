@@ -3,8 +3,8 @@
 ### Project Overview
 This project is a medical literature search application designed to assist healthcare professionals, researchers, and academics in quickly retrieving relevant medical papers based on specific queries. The application leverages embeddings to represent the semantic content of medical documents and employs a vector database (ChromaDB) to efficiently search and retrieve relevant documents. A Gradio-based web interface allows users to interactively input search queries and view results, with options to filter by publication year, journal, and keywords.
 
-###Application Flow
-###Document Ingestion:
+### Application Flow
+### Document Ingestion:
 
 The application ingests medical documents into ChromaDB by embedding each document (using the SentenceTransformer model fine-tuned for medical literature) and storing the document text, metadata (title, journal, publication date, DOI, keywords), and embedding.
 This enables efficient similarity-based retrieval when a query is made.
