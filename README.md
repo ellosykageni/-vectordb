@@ -27,7 +27,7 @@ pip: Python's package installer should be installed (it comes pre-installed with
 ### 1. Clone or Download the Project
 Open your terminal or command prompt.
 Clone the project repository using:
-  `https://github.com/ellosykageni/chromadbbounty.git`
+  `https://github.com/ellosykageni/chromadbbounty.git` </br>
   
 Navigate to the project directory:
 `cd medical-literature-search`
