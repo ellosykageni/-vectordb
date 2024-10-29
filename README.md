@@ -27,7 +27,8 @@ pip: Python's package installer should be installed (it comes pre-installed with
 ### 1. Clone or Download the Project
 Open your terminal or command prompt.
 Clone the project repository using:
-  `git clone https://github.com/ellosykageni/-vectordb.git`
+  `https://github.com/ellosykageni/chromadbbounty.git`
+  
 Navigate to the project directory:
 `cd medical-literature-search`
 
