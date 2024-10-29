@@ -25,7 +25,7 @@ Follow these steps to set up and run the application locally.
 Python 3.8 or later: Ensure Python is installed. You can download it from Python's official website.
 pip: Python's package installer should be installed (it comes pre-installed with Python).
 ### 1. Clone or Download the Project
-Open your terminal or command prompt.
+Open your terminal or command prompt.</br>
 Clone the project repository using:
   `https://github.com/ellosykageni/chromadbbounty.git` </br>
   
